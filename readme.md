@@ -1,6 +1,8 @@
 # EZms
 EZms is a lightweight content management system (CMS) that runs on dotnet core, MS SQL (as default) and Azure Blobs for file storage (as default). The database and file storage parts can be overridden with your own implementations in the Middleware.
 
+**See the [EZms wiki](https://github.com/Floydan/EZms/wiki) for more information regarding how to use EZms**
+
 EZms is split into two parts: 
 ## EZms.Core
   - The **Core** project contains the neccessary data layers, loaders and repositories to work with the database content.
